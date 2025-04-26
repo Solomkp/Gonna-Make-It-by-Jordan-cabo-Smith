@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# 🎵 Yes or No - Music Promo Page
+# 🎵 Gonna Make It - Music Promo Page
 
-This is a responsive, single-page promotional website for the song **"Yes or No"** by **Jordan Cabo Smith**. The page is designed to showcase the music, offer streaming and download links, and collect fan emails for updates.
+This is a responsive, single-page promotional website for the song **"Gonna Make It"** by **Jordan Cabo Smith**. The page is designed to showcase the music, offer streaming and download links, and collect fan emails for updates.
 
 ## 🚀 Live Demo
 
