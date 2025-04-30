@@ -52,5 +52,5 @@ No commercial use of the artist’s content unless permitted.
 
 
 =======
-# Yes-Or-No-by-Jordan-Cabo-Smith
+# Gonna Make It-by-Jordan-Cabo-Smith
 >>>>>>> b6509d1d7d7a3a8620d102bee0806fb4274ca7b0
